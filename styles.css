@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  background-color: lightcyan;
+  overflow: hidden;
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  color: lightblue;
+  padding: 5px;
+}
